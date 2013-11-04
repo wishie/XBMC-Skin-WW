@@ -1,2 +1,2 @@
-XBMC-Skin-WW
-============
+skin.maximinimalism
+===================
